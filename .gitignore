@@ -1,1 +1,19 @@
+# Advent of Code
 input.txt
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Rust
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
